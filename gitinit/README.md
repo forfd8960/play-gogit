@@ -22,7 +22,7 @@ gitinit/testrepo   master  cd .git
 
 play-gogit/gitinit/testrepo/.git   master  ll                                    ✔  10865  23:33:08
 total 8
--rw-r--r--  1 zhiru.chen  staff    23B Jun 30 23:30 HEAD
-drwxr-xr-x  4 zhiru.chen  staff   128B Jun 30 23:30 objects
-drwxr-xr-x  4 zhiru.chen  staff   128B Jun 30 23:30 refs
+  staff    23B Jun 30 23:30 HEAD
+  staff   128B Jun 30 23:30 objects
+  staff   128B Jun 30 23:30 refs
 ```
